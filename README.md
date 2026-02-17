@@ -45,7 +45,7 @@ git clone https://github.com/anahita31/Tic-Tac-Toe.git
 
 🔗 Live Demo
 
-👉 https://anahita31.github.io/anahita31/
+👉 https://anahita31.github.io/Tic-Tac-Toe/
 
 (Replace with your actual link)
 
